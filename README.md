@@ -14,7 +14,6 @@
 ---
 
 ## 🌊 Project Overview
-
 This repository features a comprehensive **Machine Learning** project using **Python** and **Scikit-learn** to predict Bitcoin's price movement direction. The core focus is on transforming historical Bitcoin price data into powerful **classification models** capable of predicting whether Bitcoin's price will go **up or down** on any given trading day.
 
 ### 🎯 Key Deliverables
